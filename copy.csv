@@ -1,0 +1,117 @@
+schedule_date,schedule_season,schedule_week,schedule_playoff,team_home,score_home,score_away,team_away,team_favorite_id,spread_favorite,over_under_line,stadium,stadium_neutral
+9/3/00,2000,1,FALSE,Atlanta Falcons,36,28,San Francisco 49ers,ATL,-6.5,46.5,Georgia Dome,FALSE
+9/3/00,2000,1,FALSE,Buffalo Bills,16,13,Tennessee Titans,BUF,-1,40,Ralph Wilson Stadium,FALSE
+9/3/00,2000,1,FALSE,Cleveland Browns,7,27,Jacksonville Jaguars,JAX,-10.5,38.5,FirstEnergy Stadium,FALSE
+9/3/00,2000,1,FALSE,Dallas Cowboys,14,41,Philadelphia Eagles,DAL,-6,39.5,Texas Stadium,FALSE
+9/3/00,2000,1,FALSE,Green Bay Packers,16,20,New York Jets,GB,-2.5,44,Lambeau Field,FALSE
+9/3/00,2000,1,FALSE,Kansas City Chiefs,14,27,Indianapolis Colts,IND,-3.5,44,Arrowhead Stadium,FALSE
+9/3/00,2000,1,FALSE,Miami Dolphins,23,0,Seattle Seahawks,MIA,-2,36,Sun Life Stadium,FALSE
+9/3/00,2000,1,FALSE,Minnesota Vikings,30,27,Chicago Bears,MIN,-4.5,46.5,Hubert H. Humphrey Metrodome,FALSE
+9/3/00,2000,1,FALSE,New England Patriots,16,21,Tampa Bay Buccaneers,TB,-3,36,Foxboro Stadium,FALSE
+9/3/00,2000,1,FALSE,New Orleans Saints,10,14,Detroit Lions,PICK,0,40.5,Louisiana Superdome,FALSE
+9/3/00,2000,1,FALSE,New York Giants,21,16,Arizona Cardinals,NYG,-6.5,40,Giants Stadium,FALSE
+9/3/00,2000,1,FALSE,Oakland Raiders,9,6,San Diego Chargers,OAK,-6.5,39.5,Oakland Coliseum,FALSE
+9/3/00,2000,1,FALSE,Pittsburgh Steelers,0,16,Baltimore Ravens,BAL,-2.5,37,Three Rivers Stadium,FALSE
+9/3/00,2000,1,FALSE,Washington Redskins,20,17,Carolina Panthers,WAS,-10.5,47.5,FedEx Field,FALSE
+9/4/00,2000,1,FALSE,St. Louis Rams,41,36,Denver Broncos,LAR,-6.5,48.5,Edward Jones Dome,FALSE
+9/10/00,2000,2,FALSE,Arizona Cardinals,32,31,Dallas Cowboys,ARI,-3,38.5,University of Phoenix Stadium,FALSE
+9/10/00,2000,2,FALSE,Baltimore Ravens,39,36,Jacksonville Jaguars,BAL,-3,36.5,M&T Bank Stadium,FALSE
+9/10/00,2000,2,FALSE,Buffalo Bills,27,18,Green Bay Packers,BUF,-6,38.5,Ralph Wilson Stadium,FALSE
+9/10/00,2000,2,FALSE,Cincinnati Bengals,7,24,Cleveland Browns,CIN,-6,40.5,Paul Brown Stadium,FALSE
+9/10/00,2000,2,FALSE,Denver Broncos,42,14,Atlanta Falcons,DEN,-4.5,47,Mile High Stadium,FALSE
+9/10/00,2000,2,FALSE,Detroit Lions,15,10,Washington Redskins,WAS,-5.5,43,Pontiac Silverdome,FALSE
+9/10/00,2000,2,FALSE,Indianapolis Colts,31,38,Oakland Raiders,IND,-6.5,44,RCA Dome,FALSE
+9/10/00,2000,2,FALSE,Minnesota Vikings,13,7,Miami Dolphins,MIN,-3,42.5,Hubert H. Humphrey Metrodome,FALSE
+9/10/00,2000,2,FALSE,Philadelphia Eagles,18,33,New York Giants,PHI,-3,39.5,Veterans Stadium,FALSE
+9/10/00,2000,2,FALSE,San Diego Chargers,27,28,New Orleans Saints,LAC,-5.5,35.5,Qualcomm Stadium,FALSE
+9/10/00,2000,2,FALSE,San Francisco 49ers,22,38,Carolina Panthers,CAR,-3,48,Candlestick Park,FALSE
+9/10/00,2000,2,FALSE,Seattle Seahawks,34,37,St. Louis Rams,LAR,-7.5,46,Husky Stadium,FALSE
+9/10/00,2000,2,FALSE,Tampa Bay Buccaneers,41,0,Chicago Bears,TB,-7,36.5,Raymond James Stadium,FALSE
+9/10/00,2000,2,FALSE,Tennessee Titans,17,14,Kansas City Chiefs,TEN,-8.5,38.5,Nissan Stadium,FALSE
+9/11/00,2000,2,FALSE,New York Jets,20,19,New England Patriots,NYJ,-6.5,39.5,Giants Stadium,FALSE
+9/17/00,2000,3,FALSE,Carolina Panthers,10,15,Atlanta Falcons,CAR,-6,48.5,Bank of America Stadium,FALSE
+9/17/00,2000,3,FALSE,Chicago Bears,7,14,New York Giants,CHI,-2,42,Soldier Field,FALSE
+9/17/00,2000,3,FALSE,Cleveland Browns,23,20,Pittsburgh Steelers,PIT,-2.5,35.5,FirstEnergy Stadium,FALSE
+9/17/00,2000,3,FALSE,Detroit Lions,10,31,Tampa Bay Buccaneers,TB,-3,34.5,Pontiac Silverdome,FALSE
+9/17/00,2000,3,FALSE,Green Bay Packers,6,3,Philadelphia Eagles,GB,-4,42.5,Lambeau Field,FALSE
+9/17/00,2000,3,FALSE,Jacksonville Jaguars,13,0,Cincinnati Bengals,JAX,-13,41,EverBank Field,FALSE
+9/17/00,2000,3,FALSE,Kansas City Chiefs,42,10,San Diego Chargers,KC,-4.5,35.5,Arrowhead Stadium,FALSE
+9/17/00,2000,3,FALSE,Miami Dolphins,19,6,Baltimore Ravens,BAL,-1.5,34.5,Sun Life Stadium,FALSE
+9/17/00,2000,3,FALSE,New England Patriots,13,21,Minnesota Vikings,NE,-1.5,42.5,Foxboro Stadium,FALSE
+9/17/00,2000,3,FALSE,New York Jets,27,14,Buffalo Bills,NYJ,-1,38.5,Giants Stadium,FALSE
+9/17/00,2000,3,FALSE,Oakland Raiders,24,33,Denver Broncos,OAK,-3,44,Oakland Coliseum,FALSE
+9/17/00,2000,3,FALSE,Seattle Seahawks,20,10,New Orleans Saints,SEA,-6,40,Husky Stadium,FALSE
+9/17/00,2000,3,FALSE,St. Louis Rams,41,24,San Francisco 49ers,LAR,-17,55.5,Edward Jones Dome,FALSE
+9/18/00,2000,3,FALSE,Washington Redskins,21,27,Dallas Cowboys,WAS,-10.5,44,FedEx Field,FALSE
+9/24/00,2000,4,FALSE,Arizona Cardinals,3,29,Green Bay Packers,ARI,-1,42,University of Phoenix Stadium,FALSE
+9/24/00,2000,4,FALSE,Atlanta Falcons,20,41,St. Louis Rams,LAR,-6.5,55,Georgia Dome,FALSE
+9/24/00,2000,4,FALSE,Baltimore Ravens,37,0,Cincinnati Bengals,BAL,-11.5,38,M&T Bank Stadium,FALSE
+9/24/00,2000,4,FALSE,Chicago Bears,14,21,Detroit Lions,CHI,-1,37.5,Soldier Field,FALSE
+9/24/00,2000,4,FALSE,Dallas Cowboys,24,41,San Francisco 49ers,DAL,-6.5,47,Texas Stadium,FALSE
+9/24/00,2000,4,FALSE,Denver Broncos,22,23,Kansas City Chiefs,DEN,-7,43,Mile High Stadium,FALSE
+9/24/00,2000,4,FALSE,Miami Dolphins,10,3,New England Patriots,MIA,-4.5,34.5,Sun Life Stadium,FALSE
+9/24/00,2000,4,FALSE,New Orleans Saints,7,21,Philadelphia Eagles,NO,-1.5,38,Louisiana Superdome,FALSE
+9/24/00,2000,4,FALSE,New York Giants,6,16,Washington Redskins,NYG,-1,42,Giants Stadium,FALSE
+9/24/00,2000,4,FALSE,Oakland Raiders,36,10,Cleveland Browns,OAK,-10.5,40.5,Oakland Coliseum,FALSE
+9/24/00,2000,4,FALSE,Pittsburgh Steelers,20,23,Tennessee Titans,TEN,-7,36,Three Rivers Stadium,FALSE
+9/24/00,2000,4,FALSE,San Diego Chargers,12,20,Seattle Seahawks,SEA,-2.5,36,Qualcomm Stadium,FALSE
+9/24/00,2000,4,FALSE,Tampa Bay Buccaneers,17,21,New York Jets,TB,-7,36,Raymond James Stadium,FALSE
+9/25/00,2000,4,FALSE,Indianapolis Colts,43,14,Jacksonville Jaguars,IND,-3.5,45,RCA Dome,FALSE
+10/1/00,2000,5,FALSE,Buffalo Bills,16,18,Indianapolis Colts,BUF,-1.5,44,Ralph Wilson Stadium,FALSE
+10/1/00,2000,5,FALSE,Carolina Panthers,13,16,Dallas Cowboys,CAR,-6.5,47.5,Bank of America Stadium,FALSE
+10/1/00,2000,5,FALSE,Cincinnati Bengals,16,31,Miami Dolphins,MIA,-7,33,Paul Brown Stadium,FALSE
+10/1/00,2000,5,FALSE,Cleveland Browns,0,12,Baltimore Ravens,BAL,-8.5,37,FirstEnergy Stadium,FALSE
+10/1/00,2000,5,FALSE,Denver Broncos,19,28,New England Patriots,DEN,-8.5,41,Mile High Stadium,FALSE
+10/1/00,2000,5,FALSE,Detroit Lions,24,31,Minnesota Vikings,DET,-1,42.5,Pontiac Silverdome,FALSE
+10/1/00,2000,5,FALSE,Green Bay Packers,24,27,Chicago Bears,GB,-5.5,41,Lambeau Field,FALSE
+10/1/00,2000,5,FALSE,Jacksonville Jaguars,13,24,Pittsburgh Steelers,JAX,-11,38.5,EverBank Field,FALSE
+10/1/00,2000,5,FALSE,Philadelphia Eagles,38,10,Atlanta Falcons,PHI,-3,41.5,Veterans Stadium,FALSE
+10/1/00,2000,5,FALSE,San Francisco 49ers,27,20,Arizona Cardinals,SF,-3.5,47.5,Candlestick Park,FALSE
+10/1/00,2000,5,FALSE,St. Louis Rams,57,31,San Diego Chargers,LAR,-17,53.5,Edward Jones Dome,FALSE
+10/1/00,2000,5,FALSE,Tennessee Titans,28,14,New York Giants,TEN,-5,38,Nissan Stadium,FALSE
+10/1/00,2000,5,FALSE,Washington Redskins,20,17,Tampa Bay Buccaneers,WAS,-1.5,36,FedEx Field,FALSE
+10/2/00,2000,5,FALSE,Kansas City Chiefs,24,17,Seattle Seahawks,KC,-4,38.5,Arrowhead Stadium,FALSE
+10/8/00,2000,6,FALSE,Arizona Cardinals,29,21,Cleveland Browns,ARI,-4.5,40.5,University of Phoenix Stadium,FALSE
+10/8/00,2000,6,FALSE,Atlanta Falcons,6,13,New York Giants,ATL,-1,42,Georgia Dome,FALSE
+10/8/00,2000,6,FALSE,Carolina Panthers,26,3,Seattle Seahawks,CAR,-3.5,43,Bank of America Stadium,FALSE
+10/8/00,2000,6,FALSE,Chicago Bears,10,31,New Orleans Saints,CHI,-5.5,40,Soldier Field,FALSE
+10/8/00,2000,6,FALSE,Cincinnati Bengals,14,23,Tennessee Titans,TEN,-10,38,Paul Brown Stadium,FALSE
+10/8/00,2000,6,FALSE,Detroit Lions,31,24,Green Bay Packers,DET,-3,43,Pontiac Silverdome,FALSE
+10/8/00,2000,6,FALSE,Jacksonville Jaguars,10,15,Baltimore Ravens,JAX,-2.5,37.5,EverBank Field,FALSE
+10/8/00,2000,6,FALSE,Miami Dolphins,22,13,Buffalo Bills,MIA,-2,34.5,Sun Life Stadium,FALSE
+10/8/00,2000,6,FALSE,New England Patriots,24,16,Indianapolis Colts,IND,-3.5,43.5,Foxboro Stadium,FALSE
+10/8/00,2000,6,FALSE,New York Jets,3,20,Pittsburgh Steelers,NYJ,-8,37.5,Giants Stadium,FALSE
+10/8/00,2000,6,FALSE,Philadelphia Eagles,14,17,Washington Redskins,WAS,-3.5,37.5,Veterans Stadium,FALSE
+10/8/00,2000,6,FALSE,San Diego Chargers,7,21,Denver Broncos,DEN,-6.5,43,Qualcomm Stadium,FALSE
+10/8/00,2000,6,FALSE,San Francisco 49ers,28,34,Oakland Raiders,OAK,-4.5,48.5,Candlestick Park,FALSE
+10/9/00,2000,6,FALSE,Minnesota Vikings,30,23,Tampa Bay Buccaneers,MIN,-1,39,Hubert H. Humphrey Metrodome,FALSE
+10/15/00,2000,7,FALSE,Arizona Cardinals,14,33,Philadelphia Eagles,PHI,-2.5,39,University of Phoenix Stadium,FALSE
+10/15/00,2000,7,FALSE,Buffalo Bills,27,24,San Diego Chargers,BUF,-10,36.5,Ralph Wilson Stadium,FALSE
+10/15/00,2000,7,FALSE,Chicago Bears,16,28,Minnesota Vikings,MIN,-6,44,Soldier Field,FALSE
+10/15/00,2000,7,FALSE,Denver Broncos,44,10,Cleveland Browns,DEN,-12.5,44,Mile High Stadium,FALSE
+10/15/00,2000,7,FALSE,Green Bay Packers,31,28,San Francisco 49ers,GB,-4.5,49.5,Lambeau Field,FALSE
+10/15/00,2000,7,FALSE,Kansas City Chiefs,17,20,Oakland Raiders,KC,-3,43.5,Arrowhead Stadium,FALSE
+10/15/00,2000,7,FALSE,New England Patriots,17,34,New York Jets,NE,-3,37,Foxboro Stadium,FALSE
+10/15/00,2000,7,FALSE,New Orleans Saints,24,6,Carolina Panthers,PICK,0,40.5,Louisiana Superdome,FALSE
+10/15/00,2000,7,FALSE,New York Giants,19,14,Dallas Cowboys,NYG,-4,40.5,Giants Stadium,FALSE
+10/15/00,2000,7,FALSE,Pittsburgh Steelers,15,0,Cincinnati Bengals,PIT,-8.5,37,Three Rivers Stadium,FALSE
+10/15/00,2000,7,FALSE,Seattle Seahawks,24,37,Indianapolis Colts,IND,-5.5,44,Husky Stadium,FALSE
+10/15/00,2000,7,FALSE,St. Louis Rams,45,29,Atlanta Falcons,LAR,-18,58.5,Edward Jones Dome,FALSE
+10/15/00,2000,7,FALSE,Washington Redskins,10,3,Baltimore Ravens,WAS,-3.5,34.5,FedEx Field,FALSE
+10/16/00,2000,7,FALSE,Tennessee Titans,27,13,Jacksonville Jaguars,TEN,-6,38,Nissan Stadium,FALSE
+10/19/00,2000,8,FALSE,Tampa Bay Buccaneers,14,28,Detroit Lions,TB,-8,37.5,Raymond James Stadium,FALSE
+10/22/00,2000,8,FALSE,Atlanta Falcons,19,21,New Orleans Saints,NO,-1.5,40,Georgia Dome,FALSE
+10/22/00,2000,8,FALSE,Baltimore Ravens,6,14,Tennessee Titans,BAL,-1,35,M&T Bank Stadium,FALSE
+10/22/00,2000,8,FALSE,Carolina Panthers,34,16,San Francisco 49ers,CAR,-3,50,Bank of America Stadium,FALSE
+10/22/00,2000,8,FALSE,Cincinnati Bengals,31,21,Denver Broncos,DEN,-10,43,Paul Brown Stadium,FALSE
+10/22/00,2000,8,FALSE,Dallas Cowboys,48,7,Arizona Cardinals,DAL,-7,41.5,Texas Stadium,FALSE
+10/22/00,2000,8,FALSE,Indianapolis Colts,30,23,New England Patriots,IND,-8.5,47,RCA Dome,FALSE
+10/22/00,2000,8,FALSE,Jacksonville Jaguars,16,35,Washington Redskins,WAS,-4,36,EverBank Field,FALSE
+10/22/00,2000,8,FALSE,Kansas City Chiefs,54,34,St. Louis Rams,LAR,-7,56,Arrowhead Stadium,FALSE
+10/22/00,2000,8,FALSE,Minnesota Vikings,31,27,Buffalo Bills,MIN,-6.5,44.5,Hubert H. Humphrey Metrodome,FALSE
+10/22/00,2000,8,FALSE,Oakland Raiders,31,3,Seattle Seahawks,OAK,-7.5,44,Oakland Coliseum,FALSE
+10/22/00,2000,8,FALSE,Philadelphia Eagles,13,9,Chicago Bears,PHI,-6.5,41,Veterans Stadium,FALSE
+10/22/00,2000,8,FALSE,Pittsburgh Steelers,22,0,Cleveland Browns,PIT,-9,37.5,Three Rivers Stadium,FALSE
+10/23/00,2000,8,FALSE,New York Jets,40,37,Miami Dolphins,NYJ,-3,35,Giants Stadium,FALSE
+10/29/00,2000,9,FALSE,Arizona Cardinals,10,21,New Orleans Saints,NO,-6,41,University of Phoenix Stadium,FALSE
+10/29/00,2000,9,FALSE,Atlanta Falcons,13,12,Carolina Panthers,CAR,-3,45.5,Georgia Dome,FALSE
